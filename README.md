@@ -36,7 +36,3 @@ Include relevant code snippets showcasing key functionalities, such as:
 - SQL query generation and execution.
 - Chroma DB setup and query embedding.
 
-#### References
-Provide citations and links to relevant resources used in the project.
-
-Feel free to expand or modify this outline based on the specific details and depth you want to include in your GitHub report.
